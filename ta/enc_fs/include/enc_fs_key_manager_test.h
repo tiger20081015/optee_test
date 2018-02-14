@@ -35,4 +35,5 @@
 /* The TAFs ID implemented in this TA */
 #define CMD_SELF_TESTS	0
 
+#define CMD_TEST 1
 #endif /*ENC_FS_KEY_MANAGER_TEST_H*/
